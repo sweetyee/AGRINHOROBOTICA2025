@@ -32,8 +32,6 @@ Motores DC (x2): Para propulsão e esteira coletora.
 
 Baterias 18650 (x3): Fonte de energia principal para o funcionamento do barco.
 
-Luzes LED.
-
 Estrutura impressa em 3D.
 
 Protoboard e Fios.
