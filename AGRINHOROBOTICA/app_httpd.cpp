@@ -16,11 +16,11 @@ extern String WiFiAddr;
 void WheelAct(int nLf, int nLb, int nRf, int nRb);
 
 typedef struct {
-  size_t size;   //number of values used for filtering
-  size_t index;  //current value index
-  size_t count;  //value count
+  size_t size;  
+  size_t index;  
+  size_t count;  
   int sum;
-  int *values;  //array to be filled with values
+  int *values;  
 } ra_filter_t;
 
 typedef struct {
