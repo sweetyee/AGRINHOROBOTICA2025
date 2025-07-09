@@ -1,7 +1,6 @@
 # AGRINHOROBOTICA2025
 
 Barquinho River Cleaner: Inovação Sustentável para a Limpeza do Rio Belém
-(Opcional: Você pode incluir uma imagem ou GIF do barco em funcionamento aqui)
 
 ## Sobre o Projeto
 O Barquinho River Cleaner é um protótipo desenvolvido por alunos do Clube de Ciências da Escola Alfredo Parodi com o objetivo de combater a poluição no Rio Belém, em Curitiba. Este projeto visa não apenas a remoção física de resíduos flutuantes, mas também a conscientização da comunidade sobre a importância da preservação ambiental.
